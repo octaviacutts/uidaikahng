@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://esohgheiy.aglomb.com/sitemap.xml
